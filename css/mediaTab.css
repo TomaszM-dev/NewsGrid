@@ -1,0 +1,19 @@
+.links i {
+  font-size: 30px;
+}
+
+.navbar {
+  grid-template-columns: 2fr 1fr 1fr;
+}
+
+.box-row img {
+  height: 200px;
+
+  width: 70%;
+}
+
+.box-1,
+.box-7 {
+  font-size: 15px;
+  align-items: center;
+}

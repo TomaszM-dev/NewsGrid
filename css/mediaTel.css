@@ -1,0 +1,46 @@
+.links i {
+  font-size: 20px;
+}
+
+.navbar {
+  grid-template-columns: 1.5fr 1.5fr 1fr;
+}
+.navbar img {
+  height: 20px;
+}
+
+.navbar a {
+  padding: 8px;
+}
+
+.links i {
+  font-size: 20px;
+}
+
+.content {
+  height: 60vh;
+  width: 70%;
+}
+
+.articles {
+  display: flex;
+  flex-direction: column;
+}
+
+.box-row {
+  display: block;
+}
+.box-row img {
+  width: 100%;
+}
+
+.footer {
+  height: auto;
+}
+
+.content-footer {
+  display: block;
+}
+.content-footer div {
+  margin: 30px;
+}
